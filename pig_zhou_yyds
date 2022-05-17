@@ -1,0 +1,9 @@
+```cpp
+#include<iostream>
+using namespace std;
+int main(){
+  for(int i=0;; i++)
+    cout << "pig zhou yyds << endl";
+  return 0;
+}
+```
